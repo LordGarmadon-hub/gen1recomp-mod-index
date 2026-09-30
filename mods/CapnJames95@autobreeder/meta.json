@@ -1,0 +1,24 @@
+{
+  "id": "autobreeder",
+  "title": "Auto Breeder",
+  "author": "CapnJames95",
+  "version": "1.0.3",
+  "categories": [
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Search engine-generated eggs for selected IVs, shininess and other traits.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/autobreeder-1.0.3.zip",
+  "game_version": ">=0.3.21 <0.4.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

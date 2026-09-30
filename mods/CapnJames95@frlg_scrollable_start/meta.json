@@ -1,0 +1,24 @@
+{
+  "id": "frlg_scrollable_start",
+  "title": "FRLG Scrollable Start Menu",
+  "author": "CapnJames95",
+  "version": "0.2.2",
+  "categories": [
+    "QOL",
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Expand and scroll the native Start menu; sort entries and group mod shortcuts into folders.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg-scrollable-start-0.2.2.zip",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

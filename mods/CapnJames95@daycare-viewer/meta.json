@@ -1,0 +1,24 @@
+{
+  "id": "daycare-viewer",
+  "title": "Day Care Viewer",
+  "author": "CapnJames95",
+  "version": "0.2.1",
+  "categories": [
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Inspect daycare and breeding details, manage deposited Pokémon and teleport to daycare.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/daycare-viewer-0.2.1.zip",
+  "game_version": ">=0.3.21 <0.4.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

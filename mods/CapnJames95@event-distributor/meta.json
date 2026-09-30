@@ -1,0 +1,24 @@
+{
+  "id": "event-distributor",
+  "title": "Event Distributions",
+  "author": "CapnJames95",
+  "version": "1.2.0",
+  "categories": [
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Browse and recreate supported event Pokémon, eggs and island tickets.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/event-distributor-1.2.0.zip",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

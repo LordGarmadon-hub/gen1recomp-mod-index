@@ -1,0 +1,24 @@
+{
+  "id": "encounter_tour",
+  "title": "Encounter Tour",
+  "author": "CapnJames95",
+  "version": "0.1.3",
+  "categories": [
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Teleport to static encounters, gifts and other destinations, individually or on a tour.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/encounter-tour-0.1.3.zip",
+  "game_version": ">=0.3.21 <2.0.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "frlg_dual_screen",
+  "title": "FRLG Dual Screen",
+  "author": "CapnJames95",
+  "version": "0.3.16",
+  "categories": [
+    "UI"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "A Kanto Gear-based companion screen that connects mod shortcuts, editors, encounters and QoL controls.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg-dual-screen-0.3.16.zip",
+  "game_version": "0.0.0-dev || >=0.3.20 <2.0.0",
+  "conflicts": [
+    "kanto_gear",
+    "gen1recomp_ds"
+  ],
+  "permissions": [
+    "network",
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "content",
+  "experimental": true,
+  "automatic_version_check": false
+}

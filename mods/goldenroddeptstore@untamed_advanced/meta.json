@@ -1,0 +1,25 @@
+{
+  "id": "untamed_advanced",
+  "title": "Untamed Advanced",
+  "author": "goldenroddeptstore",
+  "version": "1.0.0-beta.4",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/goldenroddeptstore/Untamed-Advanced",
+  "summary": "Adds Pokémon followers, visible wild encounters, and encounter chaining to FireRed and LeafGreen.",
+  "tags": [
+    "firered",
+    "leafgreen",
+    "followers",
+    "encounters",
+    "chaining"
+  ],
+  "github": "goldenroddeptstore/Untamed-Advanced",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "affects_link": true,
+  "profile": "overhaul"
+}

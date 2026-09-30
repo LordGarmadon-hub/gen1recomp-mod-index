@@ -1,0 +1,25 @@
+{
+  "id": "summary-ivs",
+  "title": "Summary IVs",
+  "author": "CapnJames95",
+  "version": "0.1.0",
+  "categories": [
+    "QOL",
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Show all six IVs inline in the orange Summary stat area without changing the stat totals.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/summary-ivs-0.1.0.zip",
+  "game_version": ">=0.3.21 <0.4.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

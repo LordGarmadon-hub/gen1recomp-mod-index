@@ -1,0 +1,26 @@
+{
+  "id": "gen2run",
+  "title": "Run",
+  "author": "goldenroddeptstore",
+  "version": "1.0.0",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/goldenroddeptstore/gen2run",
+  "summary": "Hold B to run at double speed in Gen 2, with matching running sprites for Chris and Kris.",
+  "tags": [
+    "gen 2",
+    "running",
+    "movement"
+  ],
+  "github": "goldenroddeptstore/gen2run",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "games": [
+    "gen2"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "content"
+}

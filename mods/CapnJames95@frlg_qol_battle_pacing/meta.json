@@ -1,0 +1,24 @@
+{
+  "id": "frlg_qol_battle_pacing",
+  "title": "Battle Bar Speed",
+  "author": "CapnJames95",
+  "version": "0.1.1",
+  "categories": [
+    "QOL",
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Adjust battle HP and EXP bar animation speed.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_battle_pacing-0.1.1.zip",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T04:29:10.392Z",
-  "count": 191,
+  "generated_at": "2026-09-30T12:10:19.172Z",
+  "count": 232,
   "cart_count": 3,
   "categories": [
     "GAMEPLAY",
@@ -43,23 +43,23 @@
       "description_url": "data/mods/hydhyro@gen1_pt-br_mod/description.md",
       "summary": "Tradução em Português brasileiro das versões Amarela, Azul e Vermelha de Pokémon gen1.",
       "latest": {
-        "version": "0.1.12",
-        "tag": "0.1.12",
-        "name": "0.1.12",
+        "version": "0.1.13",
+        "tag": "0.1.13",
+        "name": "0.1.13",
         "prerelease": false,
-        "published_at": "2026-09-06T19:45:49Z",
+        "published_at": "2026-09-27T22:22:20Z",
         "zip": {
-          "name": "gen1_pt-br_mod-0.1.12.zip",
-          "url": "https://github.com/hydhyro/gen1_pt-br_mod/releases/download/0.1.12/gen1_pt-br_mod-0.1.12.zip",
-          "size": 167502
+          "name": "gen1_pt-br_mod-0.1.13.zip",
+          "url": "https://github.com/hydhyro/gen1_pt-br_mod/releases/download/0.1.13/gen1_pt-br_mod-0.1.13.zip",
+          "size": 158068
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 573,
-        "recent": 185,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 643,
+        "recent": 255,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -99,10 +99,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 367,
-        "recent": 100,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 392,
+        "recent": 116,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -140,10 +140,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 8110,
-        "recent": 1312,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 8227,
+        "recent": 1228,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -180,10 +180,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 768,
-        "recent": 175,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 797,
+        "recent": 181,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -225,10 +225,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 486,
-        "recent": 290,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 538,
+        "recent": 342,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -281,10 +281,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 649,
-        "recent": 255,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 679,
+        "recent": 251,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -333,11 +333,71 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1281,
-        "recent": 275,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1324,
+        "recent": 289,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@autobreeder",
+      "id": "autobreeder",
+      "title": "Auto Breeder",
+      "author": "CapnJames95",
+      "version": "1.0.3",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Search engine-generated eggs for selected IVs, shininess and other traits.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/autobreeder-1.0.3.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@autobreeder/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_auto_surf",
+      "id": "frlg_qol_auto_surf",
+      "title": "Auto Surf",
+      "author": "CapnJames95",
+      "version": "0.2.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Press A facing water to start Surf directly; no walking trigger or confirmation.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_auto_surf-0.2.0.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_auto_surf/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "ZyranCZ@a_autofire",
@@ -375,10 +435,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 435,
-        "recent": 134,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 456,
+        "recent": 130,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -426,10 +486,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1025,
-        "recent": 213,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1060,
+        "recent": 215,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -477,11 +537,71 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 103358,
-        "recent": 32322,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 104997,
+        "recent": 28410,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_ball_shortcut",
+      "id": "frlg_qol_ball_shortcut",
+      "title": "Battle Ball Shortcut",
+      "author": "CapnJames95",
+      "version": "0.2.2",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Open a ball picker directly from the wild battle command menu.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_ball_shortcut-0.2.2.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_ball_shortcut/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_battle_pacing",
+      "id": "frlg_qol_battle_pacing",
+      "title": "Battle Bar Speed",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Adjust battle HP and EXP bar animation speed.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_battle_pacing-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_battle_pacing/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "EnterPlayerOne@BATTLE_CINEMATICS",
@@ -515,23 +635,23 @@
       "thumbnail": "data/mods/EnterPlayerOne@BATTLE_CINEMATICS/thumbnail.jpg",
       "description_url": "data/mods/EnterPlayerOne@BATTLE_CINEMATICS/description.md",
       "latest": {
-        "version": "1.4.4",
-        "tag": "v1.4.4",
-        "name": "Battle Cinematics v1.4.4 — Stadium2 Overworld Models 0.4.33 ",
+        "version": "1.5.0",
+        "tag": "v1.5.0",
+        "name": "Battle Cinematics v1.5 — Colosseum Cams + Terrarium Advanced Integration",
         "prerelease": false,
-        "published_at": "2026-09-17T18:05:25Z",
+        "published_at": "2026-09-29T22:08:21Z",
         "zip": {
-          "name": "BATTLE_CINEMATICS-1.4.4.zip",
-          "url": "https://github.com/EnterPlayerOne/Battle-Cinematics-Stadium-Camera/releases/download/v1.4.4/BATTLE_CINEMATICS-1.4.4.zip",
-          "size": 330962
+          "name": "BATTLE_CINEMATICS-1.5.0.zip",
+          "url": "https://github.com/EnterPlayerOne/Battle-Cinematics-Stadium-Camera/releases/download/v1.5.0/BATTLE_CINEMATICS-1.5.0.zip",
+          "size": 474221
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 21074,
-        "recent": 7265,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 21448,
+        "recent": 6486,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -578,10 +698,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 209,
-        "recent": 199,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 250,
+        "recent": 240,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -636,10 +756,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1090,
-        "recent": 619,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1130,
+        "recent": 499,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -683,10 +803,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 7376,
-        "recent": 1012,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 7422,
+        "recent": 903,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -737,10 +857,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 191,
-        "recent": 117,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 211,
+        "recent": 119,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -788,10 +908,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 4482,
-        "recent": 1190,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 4573,
+        "recent": 1083,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -840,10 +960,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 606,
+        "total": 629,
         "recent": 158,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -879,23 +999,23 @@
       "thumbnail": "data/mods/Code-Grub@bills_pc_plus/thumbnail.png",
       "description_url": "data/mods/Code-Grub@bills_pc_plus/description.md",
       "latest": {
-        "version": "0.17.0",
-        "tag": "v0.17.0",
-        "name": "Bill's PC Plus 0.17.0",
+        "version": "0.18.0",
+        "tag": "v0.18.0",
+        "name": "Bill's PC Plus 0.18.0",
         "prerelease": false,
-        "published_at": "2026-09-23T16:52:52Z",
+        "published_at": "2026-09-29T22:47:04Z",
         "zip": {
-          "name": "bills_pc_plus-0.17.0.zip",
-          "url": "https://github.com/Code-Grub/bills-pc-plus/releases/download/v0.17.0/bills_pc_plus-0.17.0.zip",
-          "size": 60297
+          "name": "bills_pc_plus-0.18.0.zip",
+          "url": "https://github.com/Code-Grub/bills-pc-plus/releases/download/v0.18.0/bills_pc_plus-0.18.0.zip",
+          "size": 64414
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1030,
-        "recent": 980,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1124,
+        "recent": 1043,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -948,10 +1068,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3179,
-        "recent": 498,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3214,
+        "recent": 428,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -990,10 +1110,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 489,
-        "recent": 300,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 537,
+        "recent": 284,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1034,10 +1154,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 4150,
-        "recent": 515,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 4199,
+        "recent": 483,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1073,10 +1193,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1330,
-        "recent": 257,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1364,
+        "recent": 253,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1114,11 +1234,42 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 595,
-        "recent": 160,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 627,
+        "recent": 166,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@capture-assistant",
+      "id": "capture-assistant",
+      "title": "Capture Assistant",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Compare owned balls, catch estimates and moveset risks during wild battles.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/capture-assistant-0.1.1.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@capture-assistant/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "xkrisl@character_select",
@@ -1150,10 +1301,10 @@
       "latest": null,
       "update_check": "no installable release",
       "downloads": {
-        "total": 1005,
-        "recent": 676,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1055,
+        "recent": 659,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1199,10 +1350,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 747,
-        "recent": 211,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 782,
+        "recent": 209,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1243,10 +1394,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6229,
-        "recent": 918,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6316,
+        "recent": 874,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1296,10 +1447,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 191,
-        "recent": 162,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 217,
+        "recent": 188,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1341,10 +1492,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6363,
-        "recent": 941,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6440,
+        "recent": 886,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1387,10 +1538,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1443,
-        "recent": 284,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1483,
+        "recent": 282,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1439,10 +1590,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 344,
-        "recent": 83,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 364,
+        "recent": 93,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1491,11 +1642,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2662,
-        "recent": 637,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2716,
+        "recent": 611,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@daycare-viewer",
+      "id": "daycare-viewer",
+      "title": "Day Care Viewer",
+      "author": "CapnJames95",
+      "version": "0.2.1",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Inspect daycare and breeding details, manage deposited Pokémon and teleport to daycare.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/daycare-viewer-0.2.1.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@daycare-viewer/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "Roxas2712@deutsch-blau",
@@ -1540,10 +1721,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 825,
-        "recent": 132,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 847,
+        "recent": 135,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1589,10 +1770,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1077,
-        "recent": 176,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1104,
+        "recent": 172,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1647,10 +1828,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 475,
-        "recent": 401,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 528,
+        "recent": 412,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1696,10 +1877,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2235,
-        "recent": 326,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2267,
+        "recent": 299,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1745,11 +1926,72 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 210,
-        "recent": 77,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 231,
+        "recent": 91,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_dex_companion",
+      "id": "frlg_qol_dex_companion",
+      "title": "Dex Companion",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Browse caught status, evolution information and encounter details.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_dex_companion-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_dex_companion/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@disable-lr-help",
+      "id": "disable-lr-help",
+      "title": "Disable L/R Help",
+      "author": "CapnJames95",
+      "version": "0.1.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Free shoulder buttons from native Help and L=A without consuming hotkey input.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/disable-lr-help-0.1.0.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@disable-lr-help/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "ShaneHudson@double_battles",
@@ -1796,10 +2038,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1701,
-        "recent": 407,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1740,
+        "recent": 389,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1860,10 +2102,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6416,
-        "recent": 1151,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6522,
+        "recent": 1111,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1902,10 +2144,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 268,
-        "recent": 66,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 292,
+        "recent": 87,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1942,10 +2184,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 378,
-        "recent": 167,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 400,
+        "recent": 161,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -1985,11 +2227,71 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6809,
-        "recent": 1245,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6894,
+        "recent": 1221,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@encounter_reset",
+      "id": "encounter_reset",
+      "title": "Encounter Reset",
+      "author": "CapnJames95",
+      "version": "0.2.0",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Reset individual encounters, gifts, fossils, NPC trades or your roaming beast.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/encounter-reset-0.2.0.zip",
+      "game_version": ">=0.3.21 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@encounter_reset/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@encounter_tour",
+      "id": "encounter_tour",
+      "title": "Encounter Tour",
+      "author": "CapnJames95",
+      "version": "0.1.3",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Teleport to static encounters, gifts and other destinations, individually or on a tour.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/encounter-tour-0.1.3.zip",
+      "game_version": ">=0.3.21 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@encounter_tour/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "Illan@wills_mod",
@@ -2034,11 +2336,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 566,
-        "recent": 199,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 592,
+        "recent": 196,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@event-distributor",
+      "id": "event-distributor",
+      "title": "Event Distributions",
+      "author": "CapnJames95",
+      "version": "1.2.0",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Browse and recreate supported event Pokémon, eggs and island tickets.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/event-distributor-1.2.0.zip",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@event-distributor/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "ShaneMcGovernIE@exp_share",
@@ -2080,10 +2412,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 29925,
-        "recent": 5469,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 30337,
+        "recent": 4918,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2132,11 +2464,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 204,
-        "recent": 117,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 232,
+        "recent": 145,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_summary_info",
+      "id": "frlg_qol_summary_info",
+      "title": "Expanded Summary Info",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Display additional Pokémon stats, IVs, EVs and related details.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_summary_info-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_summary_info/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "eduardocalafell@fakemons",
@@ -2181,11 +2543,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 350,
-        "recent": 112,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 375,
+        "recent": 123,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_instant_text",
+      "id": "frlg_qol_instant_text",
+      "title": "Fast / Instant Text",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Speed up dialogue or display its text instantly.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_instant_text-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_instant_text/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "duderosier@FAST_NURSE_JOY",
@@ -2220,10 +2612,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 462,
-        "recent": 432,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 524,
+        "recent": 450,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2252,11 +2644,71 @@
       "latest": null,
       "update_check": "no installable release",
       "downloads": {
-        "total": 971,
-        "recent": 664,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1021,
+        "recent": 646,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_fast_healing",
+      "id": "frlg_qol_fast_healing",
+      "title": "Faster Center Healing",
+      "author": "CapnJames95",
+      "version": "0.2.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Shorten the Pokémon Center healing presentation.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_fast_healing-0.2.0.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_fast_healing/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@fly-teleport",
+      "id": "fly-teleport",
+      "title": "Fly Teleport",
+      "author": "CapnJames95",
+      "version": "0.2.0",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Teleport to all 20 Fly destinations; optional Dual Screen Home tile.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/fly-teleport-0.2.0.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@fly-teleport/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "masterwebx@FOLLOWERS_EX",
@@ -2296,10 +2748,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 13756,
-        "recent": 1912,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 13911,
+        "recent": 1761,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2345,11 +2797,76 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 9892,
-        "recent": 2275,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 10089,
+        "recent": 2212,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_dual_screen",
+      "id": "frlg_dual_screen",
+      "title": "FRLG Dual Screen",
+      "author": "CapnJames95",
+      "version": "0.3.16",
+      "categories": [
+        "UI"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "A Kanto Gear-based companion screen that connects mod shortcuts, editors, encounters and QoL controls.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg-dual-screen-0.3.16.zip",
+      "game_version": "0.0.0-dev || >=0.3.20 <2.0.0",
+      "conflicts": [
+        "kanto_gear",
+        "gen1recomp_ds"
+      ],
+      "permissions": [
+        "network",
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "content",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_dual_screen/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_scrollable_start",
+      "id": "frlg_scrollable_start",
+      "title": "FRLG Scrollable Start Menu",
+      "author": "CapnJames95",
+      "version": "0.2.2",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Expand and scroll the native Start menu; sort entries and group mod shortcuts into folders.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg-scrollable-start-0.2.2.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_scrollable_start/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "Tekky@g9-battle-engine",
@@ -2380,23 +2897,23 @@
       "thumbnail": null,
       "description_url": "data/mods/Tekky@g9-battle-engine/description.md",
       "latest": {
-        "version": "4.7.2",
-        "tag": "v4.7.2",
-        "name": "4.7.2",
+        "version": "4.7.4",
+        "tag": "v4.7.4",
+        "name": "4.7.4",
         "prerelease": false,
-        "published_at": "2026-09-26T22:19:54Z",
+        "published_at": "2026-09-27T23:53:35Z",
         "zip": {
-          "name": "g9-battle-engine-4.7.2.zip",
-          "url": "https://github.com/tectorifter/Gen9Dex/releases/download/v4.7.2/g9-battle-engine-4.7.2.zip",
-          "size": 1134179
+          "name": "g9-battle-engine-4.7.4.zip",
+          "url": "https://github.com/tectorifter/Gen9Dex/releases/download/v4.7.4/g9-battle-engine-4.7.4.zip",
+          "size": 1120406
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1059,
-        "recent": 684,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1167,
+        "recent": 732,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2447,10 +2964,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 8255,
-        "recent": 3444,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 8491,
+        "recent": 3464,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2500,10 +3017,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 234,
-        "recent": 224,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 267,
+        "recent": 257,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2538,23 +3055,23 @@
       "thumbnail": null,
       "description_url": "data/mods/MadeinTaly@gen3_box/description.md",
       "latest": {
-        "version": "1.24.0",
-        "tag": "v1.24.0",
-        "name": "gen3_box 1.24.0",
+        "version": "1.25.0",
+        "tag": "v1.25.0",
+        "name": "gen3_box 1.25.0",
         "prerelease": false,
-        "published_at": "2026-09-01T18:13:15Z",
+        "published_at": "2026-09-28T18:52:08Z",
         "zip": {
-          "name": "gen3_box-1.24.0.zip",
-          "url": "https://github.com/MadeinTaly/gen1recomp-gen3-boxes/releases/download/v1.24.0/gen3_box-1.24.0.zip",
-          "size": 674001
+          "name": "gen3_box-1.25.0.zip",
+          "url": "https://github.com/MadeinTaly/gen1recomp-gen3-boxes/releases/download/v1.25.0/gen3_box-1.25.0.zip",
+          "size": 677280
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 36364,
-        "recent": 9255,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 37080,
+        "recent": 7355,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2602,10 +3119,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3467,
-        "recent": 1225,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3520,
+        "recent": 946,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2652,10 +3169,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 39618,
-        "recent": 6155,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 40085,
+        "recent": 5582,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2707,10 +3224,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 504,
-        "recent": 438,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 564,
+        "recent": 498,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2760,10 +3277,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1236,
-        "recent": 778,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1338,
+        "recent": 880,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2810,10 +3327,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 215,
-        "recent": 158,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 243,
+        "recent": 186,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2865,10 +3382,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 708,
-        "recent": 615,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 773,
+        "recent": 580,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2919,10 +3436,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 323,
-        "recent": 250,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 353,
+        "recent": 280,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -2970,10 +3487,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2653,
-        "recent": 1541,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2728,
+        "recent": 1226,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3027,10 +3544,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 268,
-        "recent": 188,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 296,
+        "recent": 216,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3088,10 +3605,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 365,
-        "recent": 261,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 396,
+        "recent": 292,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3144,10 +3661,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 647,
-        "recent": 484,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 719,
+        "recent": 556,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3197,10 +3714,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 354,
-        "recent": 235,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 396,
+        "recent": 277,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3248,10 +3765,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 853,
-        "recent": 221,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 882,
+        "recent": 214,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3307,10 +3824,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 446,
-        "recent": 294,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 487,
+        "recent": 335,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3363,10 +3880,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 317,
-        "recent": 260,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 361,
+        "recent": 304,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3403,10 +3920,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 16757,
-        "recent": 1560,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 16874,
+        "recent": 1466,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3461,10 +3978,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 292,
-        "recent": 208,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 322,
+        "recent": 238,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3506,10 +4023,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3116,
-        "recent": 960,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3218,
+        "recent": 949,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3564,10 +4081,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 177,
-        "recent": 141,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 202,
+        "recent": 166,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3620,10 +4137,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 261,
-        "recent": 198,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 303,
+        "recent": 240,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3674,10 +4191,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 229,
-        "recent": 178,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 269,
+        "recent": 218,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3732,10 +4249,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3046,
-        "recent": 2526,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3242,
+        "recent": 2722,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3789,10 +4306,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3179,
-        "recent": 2628,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3376,
+        "recent": 2825,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3842,10 +4359,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 408,
-        "recent": 308,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 452,
+        "recent": 311,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3897,10 +4414,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 379,
-        "recent": 191,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 407,
+        "recent": 166,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3935,10 +4452,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 185,
-        "recent": 162,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 213,
+        "recent": 161,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -3977,10 +4494,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 331,
-        "recent": 108,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 355,
+        "recent": 125,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4030,10 +4547,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 92,
-        "recent": 67,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 112,
+        "recent": 87,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4082,10 +4599,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 5088,
-        "recent": 660,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 5163,
+        "recent": 635,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4134,10 +4651,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 310,
-        "recent": 139,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 330,
+        "recent": 137,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4178,11 +4695,101 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1787,
-        "recent": 268,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1819,
+        "recent": 260,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_berry_restock",
+      "id": "frlg_qol_berry_restock",
+      "title": "Held Berry Replacement",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Replace consumed held berries from your Bag when available.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_berry_restock-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_berry_restock/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_hm_field_kit",
+      "id": "frlg_qol_hm_field_kit",
+      "title": "HM Field Kit",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Use eligible field moves without permanently teaching them to the party.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_hm_field_kit-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_hm_field_kit/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_hold_fast_forward",
+      "id": "frlg_qol_hold_fast_forward",
+      "title": "Hold Fast Forward",
+      "author": "CapnJames95",
+      "version": "0.2.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Hold a configured button to temporarily speed up the game.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_hold_fast_forward-0.2.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_hold_fast_forward/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "ojsaucer@hotkey_suite",
@@ -4229,23 +4836,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ojsaucer@hotkey_suite/description.md",
       "latest": {
-        "version": "1.17.5",
-        "tag": "v1.17.5",
-        "name": "Hotkey Suite 1.17.5",
+        "version": "1.17.6",
+        "tag": "v1.17.6",
+        "name": "Hotkey Suite 1.17.6",
         "prerelease": false,
-        "published_at": "2026-09-26T04:12:04Z",
+        "published_at": "2026-09-30T00:15:34Z",
         "zip": {
-          "name": "hotkey_suite-1.17.5.zip",
-          "url": "https://github.com/ojsaucer/gen1recomp-hotkey-suite/releases/download/v1.17.5/hotkey_suite-1.17.5.zip",
-          "size": 95699
+          "name": "hotkey_suite-1.17.6.zip",
+          "url": "https://github.com/ojsaucer/gen1recomp-hotkey-suite/releases/download/v1.17.6/hotkey_suite-1.17.6.zip",
+          "size": 100417
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 87,
-        "recent": 71,
-        "window_days": 4,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 126,
+        "recent": 110,
+        "window_days": 8,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4294,10 +4901,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 188,
-        "recent": 116,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 211,
+        "recent": 139,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4333,10 +4940,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 175,
-        "recent": 164,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 206,
+        "recent": 195,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4357,23 +4964,23 @@
       "description_url": "data/mods/hydhyro@gen1recomp_portuguese_ui/description.md",
       "summary": "Tradução da inferface do launcher para pt-br. Não traduz os jogos.",
       "latest": {
-        "version": "0.1.3",
-        "tag": "0.1.3",
-        "name": "0.1.3",
+        "version": "0.1.4",
+        "tag": "0.1.4",
+        "name": "0.1.4",
         "prerelease": false,
-        "published_at": "2026-09-10T18:29:45Z",
+        "published_at": "2026-09-27T17:00:00Z",
         "zip": {
-          "name": "gen1recomp_portuguese_ui-0.1.3.zip",
-          "url": "https://github.com/hydhyro/gen1recomp_portuguese_ui/releases/download/0.1.3/gen1recomp_portuguese_ui-0.1.3.zip",
-          "size": 10735
+          "name": "gen1recomp_portuguese_ui-0.1.4.zip",
+          "url": "https://github.com/hydhyro/gen1recomp_portuguese_ui/releases/download/0.1.4/gen1recomp_portuguese_ui-0.1.4.zip",
+          "size": 19204
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 167,
-        "recent": 133,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 207,
+        "recent": 173,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4424,10 +5031,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 269,
-        "recent": 127,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 290,
+        "recent": 132,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4466,10 +5073,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 351,
-        "recent": 58,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 375,
+        "recent": 81,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4523,10 +5130,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1135,
-        "recent": 984,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1227,
+        "recent": 1000,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4562,10 +5169,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2076,
-        "recent": 231,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2103,
+        "recent": 209,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4618,10 +5225,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 961,
+        "total": 1012,
         "recent": 568,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4668,10 +5275,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3283,
-        "recent": 922,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3381,
+        "recent": 861,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4716,23 +5323,23 @@
       "thumbnail": "data/mods/AverageConsumer@kanto_gear/thumbnail.png",
       "description_url": "data/mods/AverageConsumer@kanto_gear/description.md",
       "latest": {
-        "version": "3.3.2",
-        "tag": "v3.3.2",
-        "name": "Kanto Gear 3.3.2 — Gear Battle Controls",
+        "version": "3.4.0",
+        "tag": "v3.4.0",
+        "name": "Kanto Gear 3.4.0 — Emerald & Battle Improvements",
         "prerelease": false,
-        "published_at": "2026-09-27T00:36:34Z",
+        "published_at": "2026-09-29T23:19:29Z",
         "zip": {
-          "name": "kanto_gear-3.3.2.zip",
-          "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v3.3.2/kanto_gear-3.3.2.zip",
-          "size": 2072099
+          "name": "kanto_gear-3.4.0.zip",
+          "url": "https://github.com/AverageConsumer/kanto-gear/releases/download/v3.4.0/kanto_gear-3.4.0.zip",
+          "size": 2078966
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 20111,
-        "recent": 8853,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 20986,
+        "recent": 8516,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4783,10 +5390,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2977,
-        "recent": 959,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3072,
+        "recent": 812,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4846,11 +5453,71 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 7169,
-        "recent": 1197,
-        "window_days": 11,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 7312,
+        "recent": 1340,
+        "window_days": 15,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_key_item_help",
+      "id": "frlg_qol_key_item_help",
+      "title": "Key Item Help",
+      "author": "CapnJames95",
+      "version": "0.1.2",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Show usage guidance for supported key items.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_key_item_help-0.1.2.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_key_item_help/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@legalmon",
+      "id": "legalmon",
+      "title": "LegalMon",
+      "author": "CapnJames95",
+      "version": "0.17.1",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Configure Pokémon, validate supported acquisition constraints and deliver them to party or PC.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/legalmon-0.17.1.zip",
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@legalmon/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "MayoMan7@level_match_mod",
@@ -4899,10 +5566,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 92,
-        "recent": 85,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 119,
+        "recent": 112,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4947,10 +5614,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1607,
-        "recent": 709,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1670,
+        "recent": 639,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -4999,10 +5666,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1145,
-        "recent": 261,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1189,
+        "recent": 266,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5058,10 +5725,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2712,
-        "recent": 1417,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2786,
+        "recent": 1289,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5111,10 +5778,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1659,
-        "recent": 449,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1701,
+        "recent": 415,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5164,10 +5831,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 88,
-        "recent": 84,
-        "window_days": 4,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 134,
+        "recent": 130,
+        "window_days": 8,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5214,10 +5881,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 984,
-        "recent": 395,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1022,
+        "recent": 361,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5265,10 +5932,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 14976,
-        "recent": 2371,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 15180,
+        "recent": 2228,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5324,10 +5991,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6159,
-        "recent": 2593,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6317,
+        "recent": 2325,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5383,10 +6050,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2507,
-        "recent": 1816,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2621,
+        "recent": 1637,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5408,10 +6075,10 @@
       "latest": null,
       "update_check": "no installable release",
       "downloads": {
-        "total": 83,
-        "recent": 34,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 84,
+        "recent": 24,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5456,10 +6123,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1064,
-        "recent": 169,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1087,
+        "recent": 173,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5513,10 +6180,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 71,
-        "recent": 63,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 91,
+        "recent": 83,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5561,10 +6228,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 978,
-        "recent": 396,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1016,
+        "recent": 366,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5595,23 +6262,23 @@
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@relearn_moves/description.md",
       "latest": {
-        "version": "1.5.5",
-        "tag": "v1.5.5",
-        "name": "1.5.5",
+        "version": "1.7.0",
+        "tag": "v1.7.0",
+        "name": "1.7.0 - FireRed support and egg moves",
         "prerelease": false,
-        "published_at": "2026-09-04T12:42:38Z",
+        "published_at": "2026-09-28T11:39:34Z",
         "zip": {
-          "name": "relearn_moves-1.5.5.zip",
-          "url": "https://github.com/Nexhas28/relearn_moves/releases/download/v1.5.5/relearn_moves-1.5.5.zip",
-          "size": 17764
+          "name": "relearn_moves-1.7.0.zip",
+          "url": "https://github.com/Nexhas28/relearn_moves/releases/download/v1.7.0/relearn_moves-1.7.0.zip",
+          "size": 25497
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 5584,
-        "recent": 1496,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 5803,
+        "recent": 1527,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5649,10 +6316,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 5940,
-        "recent": 886,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6026,
+        "recent": 854,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5694,10 +6361,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1751,
-        "recent": 280,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1784,
+        "recent": 279,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5739,10 +6406,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2279,
-        "recent": 1403,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2368,
+        "recent": 1353,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5784,10 +6451,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 215,
-        "recent": 165,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 263,
+        "recent": 213,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5826,10 +6493,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 181,
-        "recent": 72,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 202,
+        "recent": 86,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5855,23 +6522,23 @@
       "thumbnail": null,
       "description_url": "data/mods/Tooandorisu@norsk_bokmaal/description.md",
       "latest": {
-        "version": "1.0.1",
-        "tag": "1.0.1",
-        "name": "1.0.1",
+        "version": "1.0.20",
+        "tag": "1.0.20",
+        "name": "1.0.20",
         "prerelease": false,
-        "published_at": "2026-09-26T01:25:01Z",
+        "published_at": "2026-09-29T18:49:29Z",
         "zip": {
-          "name": "Norsk-bokmal-v1.0.1.zip",
-          "url": "https://github.com/Tooandorisu/Gen1-Recomp-Norwegian-Translate/releases/download/1.0.1/Norsk-bokmal-v1.0.1.zip",
-          "size": 146898
+          "name": "Norsk-bokmal-v1.0.20.zip",
+          "url": "https://github.com/Tooandorisu/Gen1-Recomp-Norwegian-Translate/releases/download/1.0.20/Norsk-bokmal-v1.0.20.zip",
+          "size": 348292
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 49,
-        "recent": 36,
-        "window_days": 4,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 80,
+        "recent": 67,
+        "window_days": 8,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5920,10 +6587,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 5648,
-        "recent": 1150,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 5720,
+        "recent": 994,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -5964,10 +6631,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2483,
-        "recent": 877,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2577,
+        "recent": 876,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6021,10 +6688,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 864,
-        "recent": 254,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 898,
+        "recent": 288,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6051,9 +6718,99 @@
       "downloads": {
         "total": 0,
         "recent": 0,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_party_items",
+      "id": "frlg_qol_party_items",
+      "title": "Party Held Items",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Manage held items from the party interface.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_party_items-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_party_items/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_party_reminder",
+      "id": "frlg_qol_party_reminder",
+      "title": "Party Move Reminder",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Access move relearning from the party menu using the normal payment.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_party_reminder-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_party_reminder/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_party_nickname",
+      "id": "frlg_qol_party_nickname",
+      "title": "Party Nickname",
+      "author": "CapnJames95",
+      "version": "0.2.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Rename eligible Pokémon from the party menu.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_party_nickname-0.2.0.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_party_nickname/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "GawdMode@lavender_spirit_wardens",
@@ -6097,10 +6854,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 64,
-        "recent": 17,
-        "window_days": 1,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 96,
+        "recent": 49,
+        "window_days": 5,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6145,10 +6902,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 253,
-        "recent": 152,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 277,
+        "recent": 150,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6195,10 +6952,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1239,
-        "recent": 195,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1275,
+        "recent": 210,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6245,10 +7002,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 251,
-        "recent": 227,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 284,
+        "recent": 260,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6298,10 +7055,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2805,
-        "recent": 1084,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2887,
+        "recent": 1166,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6352,11 +7109,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 644,
-        "recent": 643,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 690,
+        "recent": 663,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@pokemon-services",
+      "id": "pokemon-services",
+      "title": "Pokemon Services",
+      "author": "CapnJames95",
+      "version": "0.1.3",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Access native PCs, shops, healing and other Pokémon services remotely.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/pokemon-services-0.1.3.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@pokemon-services/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "MisterMiracle@snag_quest",
@@ -6404,10 +7191,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1016,
-        "recent": 234,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1040,
+        "recent": 219,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6434,8 +7221,8 @@
       "downloads": {
         "total": 0,
         "recent": 0,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6466,23 +7253,23 @@
       "thumbnail": "data/mods/GawdMode@pokemon_survival/thumbnail.png",
       "description_url": "data/mods/GawdMode@pokemon_survival/description.md",
       "latest": {
-        "version": "2.1.2",
-        "tag": "v2.1.2",
-        "name": "🏕️ PokeSurvive v2.1.2 — NN Compatibility Fix",
+        "version": "2.1.5",
+        "tag": "v2.1.5",
+        "name": "🏕️ PokeSurvive v2.1.5 — Prompt Fix/Performance Tweaks",
         "prerelease": false,
-        "published_at": "2026-09-26T00:12:52Z",
+        "published_at": "2026-09-27T16:25:02Z",
         "zip": {
-          "name": "PokeSurvive-v2.1.2-NeoNurseryCompat.zip",
-          "url": "https://github.com/GawdMode/PokeSurvive/releases/download/v2.1.2/PokeSurvive-v2.1.2-NeoNurseryCompat.zip",
-          "size": 1428830
+          "name": "PokeSurvive-v2.1.5.zip",
+          "url": "https://github.com/GawdMode/PokeSurvive/releases/download/v2.1.5/PokeSurvive-v2.1.5.zip",
+          "size": 1437027
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1090,
-        "recent": 565,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1170,
+        "recent": 552,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6526,10 +7313,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3319,
-        "recent": 430,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3362,
+        "recent": 414,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6572,10 +7359,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2996,
-        "recent": 2669,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3140,
+        "recent": 2813,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6628,10 +7415,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 22048,
-        "recent": 7773,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 22562,
+        "recent": 6636,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6674,10 +7461,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 19780,
-        "recent": 4127,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 20020,
+        "recent": 3373,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6717,10 +7504,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 62621,
-        "recent": 8339,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 63279,
+        "recent": 7693,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6758,11 +7545,42 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1295,
-        "recent": 410,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1341,
+        "recent": 367,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@quick-heal-party",
+      "id": "quick-heal-party",
+      "title": "Quick Heal Party",
+      "author": "CapnJames95",
+      "version": "0.1.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Heal one Pokémon or the whole party with owned medicine after reviewing the cost.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/quick-heal-party-0.1.0.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@quick-heal-party/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "Roxas2712@jj_quick_select",
@@ -6815,11 +7633,71 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 395,
-        "recent": 142,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 423,
+        "recent": 145,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_quick_save_prompt",
+      "id": "frlg_qol_quick_save_prompt",
+      "title": "Quicker Save Confirmation",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Reduce steps in the normal save confirmation flow.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_quick_save_prompt-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_quick_save_prompt/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_quiet_exp",
+      "id": "frlg_qol_quiet_exp",
+      "title": "Quiet EXP",
+      "author": "CapnJames95",
+      "version": "0.1.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Hide individual EXP announcements while retaining EXP gains, level-ups and move learning.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_quiet_exp-0.1.0.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_quiet_exp/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "inmento@randomized_gym_challenge",
@@ -6873,10 +7751,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 153,
-        "recent": 82,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 174,
+        "recent": 95,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6916,10 +7794,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6136,
-        "recent": 806,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6213,
+        "recent": 772,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -6967,10 +7845,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 701,
-        "recent": 189,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 732,
+        "recent": 200,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7010,23 +7888,23 @@
       "thumbnail": "data/mods/alamops@rby_mmo/thumbnail.png",
       "description_url": "data/mods/alamops@rby_mmo/description.md",
       "latest": {
-        "version": "1.4.17",
-        "tag": "v1.4.17",
-        "name": "1.4.17",
+        "version": "1.4.19",
+        "tag": "v1.4.19",
+        "name": "1.4.19",
         "prerelease": false,
-        "published_at": "2026-09-21T02:52:21Z",
+        "published_at": "2026-09-29T05:54:33Z",
         "zip": {
-          "name": "rby_mmo-1.4.17.zip",
-          "url": "https://github.com/alamops/RBYMMOMod/releases/download/v1.4.17/rby_mmo-1.4.17.zip",
-          "size": 2078501
+          "name": "rby_mmo-1.4.19.zip",
+          "url": "https://github.com/alamops/RBYMMOMod/releases/download/v1.4.19/rby_mmo-1.4.19.zip",
+          "size": 2083821
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 6396,
-        "recent": 1617,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 6512,
+        "recent": 1556,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7059,10 +7937,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 213,
-        "recent": 73,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 235,
+        "recent": 87,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7114,11 +7992,71 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1418,
-        "recent": 698,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1495,
+        "recent": 707,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_repel_reuse",
+      "id": "frlg_qol_repel_reuse",
+      "title": "Repel Reuse Prompt",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Offer to use another owned Repel when the current one expires.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_repel_reuse-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_repel_reuse/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_reusable_tms",
+      "id": "frlg_qol_reusable_tms",
+      "title": "Reusable TMs",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Keep TMs after teaching compatible moves.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_reusable_tms-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_reusable_tms/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "MisterMiracle@kanto_ribbons",
@@ -7166,10 +8104,58 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 421,
-        "recent": 162,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 451,
+        "recent": 192,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
+      }
+    },
+    {
+      "folder": "goldenroddeptstore@gen2run",
+      "id": "gen2run",
+      "title": "Run",
+      "author": "goldenroddeptstore",
+      "version": "1.0.0",
+      "categories": [
+        "QOL"
+      ],
+      "repo": "https://github.com/goldenroddeptstore/gen2run",
+      "summary": "Hold B to run at double speed in Gen 2, with matching running sprites for Chris and Kris.",
+      "tags": [
+        "gen 2",
+        "running",
+        "movement"
+      ],
+      "github": "goldenroddeptstore/gen2run",
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "games": [
+        "gen2"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/goldenroddeptstore@gen2run/description.md",
+      "latest": {
+        "version": "1.0.0",
+        "tag": "v1.0.0",
+        "name": "v1.0.0",
+        "prerelease": false,
+        "published_at": "2026-09-20T02:21:29Z",
+        "zip": {
+          "name": "gen2run-1.0.0.zip",
+          "url": "https://github.com/goldenroddeptstore/gen2run/releases/download/v1.0.0/gen2run-1.0.0.zip",
+          "size": 8331
+        }
+      },
+      "update_check": "ok",
+      "downloads": {
+        "total": 57,
+        "recent": 6,
+        "window_days": 1,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7224,10 +8210,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 938,
-        "recent": 571,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1025,
+        "recent": 552,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7271,11 +8257,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 8743,
-        "recent": 996,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 8816,
+        "recent": 903,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_running_start",
+      "id": "frlg_qol_running_start",
+      "title": "Running From Start",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Allow running without waiting for the usual Running Shoes unlock.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_running_start-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_running_start/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "MadeinTaly@running_shoes",
@@ -7319,10 +8335,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 20763,
-        "recent": 5635,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 21083,
+        "recent": 5374,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7370,10 +8386,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 226,
-        "recent": 172,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 258,
+        "recent": 204,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7422,10 +8438,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 460,
-        "recent": 150,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 486,
+        "recent": 155,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7475,10 +8491,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 532,
-        "recent": 126,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 557,
+        "recent": 137,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7530,10 +8546,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 231,
-        "recent": 116,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 250,
+        "recent": 128,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7588,10 +8604,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 144,
-        "recent": 83,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 164,
+        "recent": 95,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7632,16 +8648,46 @@
         "zip": {
           "name": "shiny_starters_gifts-1.3.1.zip",
           "url": "https://github.com/Satori7Kensho/gen1recomp-shiny-starters-gifts/releases/download/v1.3.1/shiny_starters_gifts-1.3.1.zip",
-          "size": 9003
+          "size": 8387
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1903,
-        "recent": 488,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1948,
+        "recent": 461,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@shiny_hunter",
+      "id": "shiny_hunter",
+      "title": "Shiny Hunter",
+      "author": "CapnJames95",
+      "version": "0.1.5",
+      "categories": [
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Automate encounter attempts and stop for shinies or other selected targets.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/shiny-hunter-0.1.5.zip",
+      "game_version": ">=0.3.21 <2.0.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@shiny_hunter/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "masterwebx@SHINY_POKEMON",
@@ -7682,11 +8728,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 16949,
-        "recent": 2870,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 17191,
+        "recent": 2646,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_shop_count",
+      "id": "frlg_qol_shop_count",
+      "title": "Shop Owned Count",
+      "author": "CapnJames95",
+      "version": "0.2.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Show how many of each shop item you already own.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_shop_count-0.2.0.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_shop_count/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "Nezara@silphscope_network",
@@ -7730,10 +8806,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1091,
-        "recent": 654,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1164,
+        "recent": 664,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7777,10 +8853,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 615,
-        "recent": 245,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 636,
+        "recent": 224,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7821,10 +8897,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 309,
-        "recent": 86,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 333,
+        "recent": 102,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7862,9 +8938,39 @@
       "downloads": {
         "total": 0,
         "recent": 0,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_bag_sort",
+      "id": "frlg_qol_bag_sort",
+      "title": "Sorted Bag",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Sort Bag pockets into a consistent order.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_bag_sort-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_bag_sort/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "inmento@sound_effect_replacer",
@@ -7915,10 +9021,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 228,
-        "recent": 148,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 247,
+        "recent": 153,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -7955,10 +9061,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 222,
-        "recent": 166,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 256,
+        "recent": 197,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8010,10 +9116,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 799,
-        "recent": 391,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 832,
+        "recent": 372,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8057,11 +9163,42 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 11047,
-        "recent": 2310,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 11244,
+        "recent": 2110,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@summary-ivs",
+      "id": "summary-ivs",
+      "title": "Summary IVs",
+      "author": "CapnJames95",
+      "version": "0.1.0",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Show all six IVs inline in the orange Summary stat area without changing the stat totals.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/summary-ivs-0.1.0.zip",
+      "game_version": ">=0.3.21 <0.4.0",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@summary-ivs/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "allanrmartins@SWITCH_ADVISOR",
@@ -8106,10 +9243,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 651,
-        "recent": 111,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 670,
+        "recent": 118,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8160,10 +9297,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 10739,
-        "recent": 3261,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 10840,
+        "recent": 2954,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8217,10 +9354,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 359,
-        "recent": 138,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 382,
+        "recent": 135,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8259,10 +9396,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 318,
-        "recent": 259,
-        "window_days": 21,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 356,
+        "recent": 297,
+        "window_days": 25,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8311,11 +9448,41 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1844,
-        "recent": 431,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1886,
+        "recent": 473,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_map_services",
+      "id": "frlg_qol_map_services",
+      "title": "Town Map Companion",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Add location and service information to the map experience.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_map_services-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_map_services/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "jherediagu@traduccion_es",
@@ -8358,10 +9525,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 410,
-        "recent": 188,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 449,
+        "recent": 209,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8407,10 +9574,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1352,
-        "recent": 668,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1429,
+        "recent": 683,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8451,10 +9618,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 199,
-        "recent": 78,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 219,
+        "recent": 96,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8513,10 +9680,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 124,
-        "recent": 109,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 148,
+        "recent": 121,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8559,10 +9726,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 10359,
-        "recent": 3128,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 10531,
+        "recent": 2598,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8600,10 +9767,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 438,
-        "recent": 437,
-        "window_days": 29,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 490,
+        "recent": 463,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8643,10 +9810,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1362,
-        "recent": 794,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1424,
+        "recent": 754,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8702,10 +9869,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2988,
-        "recent": 918,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3026,
+        "recent": 788,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8749,10 +9916,108 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 16772,
-        "recent": 3024,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 16971,
+        "recent": 2767,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
+      }
+    },
+    {
+      "folder": "goldenroddeptstore@untamed_advanced",
+      "id": "untamed_advanced",
+      "title": "Untamed Advanced",
+      "author": "goldenroddeptstore",
+      "version": "1.0.0-beta.4",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "repo": "https://github.com/goldenroddeptstore/Untamed-Advanced",
+      "summary": "Adds Pokémon followers, visible wild encounters, and encounter chaining to FireRed and LeafGreen.",
+      "tags": [
+        "firered",
+        "leafgreen",
+        "followers",
+        "encounters",
+        "chaining"
+      ],
+      "github": "goldenroddeptstore/Untamed-Advanced",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "affects_link": true,
+      "profile": "overhaul",
+      "thumbnail": null,
+      "description_url": "data/mods/goldenroddeptstore@untamed_advanced/description.md",
+      "latest": {
+        "version": "1.0.0",
+        "tag": "v1.0.0-beta.5",
+        "name": "1.0 Beta 5",
+        "prerelease": true,
+        "published_at": "2026-09-29T22:09:02Z",
+        "zip": {
+          "name": "untamed_advanced-1.0.0-beta.5.zip",
+          "url": "https://github.com/goldenroddeptstore/Untamed-Advanced/releases/download/v1.0.0-beta.5/untamed_advanced-1.0.0-beta.5.zip",
+          "size": 1663219
+        }
+      },
+      "update_check": "ok",
+      "downloads": {
+        "total": 383,
+        "recent": 130,
+        "window_days": 1,
+        "as_of": "2026-09-30T12:10:19.172Z"
+      }
+    },
+    {
+      "folder": "goldenroddeptstore@overworldmons",
+      "id": "overworldmons",
+      "title": "Untamed Tohjo",
+      "author": "goldenroddeptstore",
+      "version": "1.2.0",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "repo": "https://github.com/goldenroddeptstore/untamed-tohjo",
+      "summary": "Replaces random encounters with visible roaming Pokémon, chaining, and an optional follower system.",
+      "tags": [
+        "overworld encounters",
+        "followers",
+        "shinies",
+        "gen 1",
+        "gen 2"
+      ],
+      "github": "goldenroddeptstore/untamed-tohjo",
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "games": [
+        "gen1",
+        "gen2"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/goldenroddeptstore@overworldmons/description.md",
+      "latest": {
+        "version": "1.2.0",
+        "tag": "v1.2.0",
+        "name": "v1.2.0",
+        "prerelease": false,
+        "published_at": "2026-09-24T00:08:48Z",
+        "zip": {
+          "name": "overworldmons-1.2.0.zip",
+          "url": "https://github.com/goldenroddeptstore/untamed-tohjo/releases/download/v1.2.0/overworldmons-1.2.0.zip",
+          "size": 307910
+        }
+      },
+      "update_check": "ok",
+      "downloads": {
+        "total": 363,
+        "recent": 14,
+        "window_days": 1,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8795,10 +10060,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 21103,
-        "recent": 4931,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 21424,
+        "recent": 4491,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8841,10 +10106,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 8469,
-        "recent": 997,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 8550,
+        "recent": 932,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8889,10 +10154,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 3320,
-        "recent": 1223,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 3391,
+        "recent": 1218,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8935,10 +10200,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 10387,
-        "recent": 1338,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 10524,
+        "recent": 1273,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -8987,10 +10252,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 365,
-        "recent": 297,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 401,
+        "recent": 311,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9029,10 +10294,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 4490,
-        "recent": 455,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 4539,
+        "recent": 443,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9083,10 +10348,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2471,
-        "recent": 735,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2565,
+        "recent": 721,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9134,24 +10399,54 @@
       "thumbnail": "data/mods/Roxas2712@VOXEL_ASCENDANT/thumbnail.jpg",
       "description_url": "data/mods/Roxas2712@VOXEL_ASCENDANT/description.md",
       "latest": {
-        "version": "3.0.52",
-        "tag": "v3.0.52",
-        "name": "VASC 3.0.52 — Terrarium zoom",
+        "version": "3.0.56",
+        "tag": "v3.0.56",
+        "name": "VASC 3.0.56 — Loading and interaction fixes",
         "prerelease": false,
-        "published_at": "2026-09-25T20:51:32Z",
+        "published_at": "2026-09-29T18:53:09Z",
         "zip": {
-          "name": "Voxel-Ascendant-3.0.52.zip",
-          "url": "https://github.com/Roxas2712/voxel-ascendant/releases/download/v3.0.52/Voxel-Ascendant-3.0.52.zip",
-          "size": 453102211
+          "name": "Voxel-Ascendant-3.0.56.zip",
+          "url": "https://github.com/Roxas2712/voxel-ascendant/releases/download/v3.0.56/Voxel-Ascendant-3.0.56.zip",
+          "size": 444803819
         }
       },
       "update_check": "ok",
       "downloads": {
-        "total": 8344,
-        "recent": 5803,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 8923,
+        "recent": 6011,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
+    },
+    {
+      "folder": "CapnJames95@frlg_qol_vs_seeker_status",
+      "id": "frlg_qol_vs_seeker_status",
+      "title": "VS Seeker Readiness",
+      "author": "CapnJames95",
+      "version": "0.1.1",
+      "categories": [
+        "QOL",
+        "TOOL"
+      ],
+      "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+      "summary": "Show VS Seeker battery charge and readiness in its Bag description.",
+      "tags": [
+        "firered",
+        "leafgreen"
+      ],
+      "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_vs_seeker_status-0.1.1.zip",
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "overhaul",
+      "experimental": true,
+      "automatic_version_check": false,
+      "thumbnail": null,
+      "description_url": "data/mods/CapnJames95@frlg_qol_vs_seeker_status/description.md",
+      "latest": null,
+      "update_check": "off",
+      "downloads": null
     },
     {
       "folder": "adrian@what-the-heck",
@@ -9200,10 +10495,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 159,
-        "recent": 83,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 178,
+        "recent": 95,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9252,10 +10547,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1720,
-        "recent": 201,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1747,
+        "recent": 202,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9297,10 +10592,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 13982,
-        "recent": 2907,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 14149,
+        "recent": 2528,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9347,10 +10642,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 13339,
-        "recent": 2747,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 13535,
+        "recent": 2602,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9399,10 +10694,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 79963,
-        "recent": 10547,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 80707,
+        "recent": 9380,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9445,10 +10740,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 7447,
-        "recent": 1363,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 7549,
+        "recent": 1268,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     }
   ],
@@ -9505,10 +10800,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 652,
-        "recent": 472,
-        "window_days": 30,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 710,
+        "recent": 450,
+        "window_days": 31,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9572,10 +10867,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 1279,
-        "recent": 1128,
-        "window_days": 17,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 1432,
+        "recent": 1281,
+        "window_days": 21,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     },
     {
@@ -9658,10 +10953,10 @@
       },
       "update_check": "ok",
       "downloads": {
-        "total": 2080,
-        "recent": 1715,
-        "window_days": 24,
-        "as_of": "2026-09-27T04:29:10.392Z"
+        "total": 2141,
+        "recent": 1776,
+        "window_days": 28,
+        "as_of": "2026-09-30T12:10:19.172Z"
       }
     }
   ]

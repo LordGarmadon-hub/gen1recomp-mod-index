@@ -1,0 +1,25 @@
+{
+  "id": "capture-assistant",
+  "title": "Capture Assistant",
+  "author": "CapnJames95",
+  "version": "0.1.1",
+  "categories": [
+    "QOL",
+    "TOOL"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "summary": "Compare owned balls, catch estimates and moveset risks during wild battles.",
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/capture-assistant-0.1.1.zip",
+  "game_version": ">=0.3.21 <0.4.0",
+  "permissions": [
+    "engine_internals"
+  ],
+  "api": 2,
+  "profile": "overhaul",
+  "experimental": true,
+  "automatic_version_check": false
+}
