@@ -1,0 +1,25 @@
+
+{
+  "id": "qol_toggles",
+  "title": "QoL Toggles",
+  "author": "Nexhas28",
+  "version": "1.31.0",
+  "summary": "Adds configurable quality-of-life toggles for Pokemon Gen 1 and Gen 2 games.",
+  "categories": [
+    "QOL"
+  ],
+  "repo": "https://github.com/Nexhas28/qol_toggles",
+  "github": "ShaneMcGovernIE/qol_toggles",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
