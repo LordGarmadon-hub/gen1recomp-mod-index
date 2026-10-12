@@ -1,0 +1,20 @@
+
+{
+  "id": "Perfect_Start",
+  "title": "Perfect Start",
+  "author": "Tooandorisu",
+  "version": "2.2.0",
+  "summary": "Choose one starter Pokémon and receive the other two in your party.",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/Tooandorisu/Perfect-Start",
+  "github": "Tooandorisu/Perfect-Start",
+  "automatic_version_check": true,
+  "api": 2,
+  "games": [
+    "gen1",
+    "gen2",
+    "gen3"
+  ]
+}
