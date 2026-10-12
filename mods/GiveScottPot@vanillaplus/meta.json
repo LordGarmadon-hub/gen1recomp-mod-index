@@ -11,7 +11,7 @@
     "GAMEPLAY"
   ],
   "repo": "https://github.com/GiveScottPot/Vanilla-",
-  "github": "GiveScottPot/Vanilla-Plus",
+  "github": "GiveScottPot/Vanilla-",
   "automatic_version_check": true,
   "api": 2,
   "game_version": ">=0.2.56 <2.0.0",
