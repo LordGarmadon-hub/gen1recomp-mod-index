@@ -1,0 +1,35 @@
+
+{
+  "id": "potato_voxel",
+  "title": "PotatoVoxel",
+  "author": "Nexhas28",
+  "version": "1.9.6",
+  "summary": "Transforms the Pokémon overworld into a 3D voxel diorama with adjustable graphics quality and terrain caching.",
+  "categories": [
+    "ART"
+  ],
+  "repo": "https://github.com/Nexhas28/potato_voxel",
+  "github": "ShaneMcGovernIE/potato_voxel",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "permissions": [
+    "engine_internals",
+    "network",
+    "compute"
+  ],
+  "dependencies": [],
+  "conflicts": [
+    "DRAMATIC_SHAPE",
+    "ds_fp_ceiling",
+    "dramatic_shape_brick",
+    "BATTLE_ART_VOXEL_FORK",
+    "DRAMALESS_SHAPE"
+  ]
+}

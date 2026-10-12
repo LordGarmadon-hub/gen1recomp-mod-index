@@ -106,7 +106,7 @@
     "permissions": {
       "type": "array",
       "uniqueItems": true,
-      "items": { "enum": ["network", "filesystem", "engine_internals"] }
+      "items": { "enum": ["network", "filesystem", "engine_internals", "compute"] }
     },
     "dependencies": {
       "type": "array",
