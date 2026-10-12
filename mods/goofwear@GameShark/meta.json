@@ -1,0 +1,26 @@
+{
+  "id": "GameShark",
+  "title": "GameShark Compatibility",
+  "author": "goofwear",
+  "version": "0.9.11",
+  "summary": "GameShark compatibility mod for Gen1Recomp, providing cheat and utility features across Gen 1, Gen 2, and Gen 3.",
+  "categories": [
+    "TOOL"
+  ],
+  "repo": "https://github.com/goofwear/gameshark",
+  "github": "goofwear/gameshark",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.1.79 || =0.0.0-dev",
+  "profile": "overhaul",
+  "games": [
+    "gen1",
+    "gen2",
+    "gen3"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
