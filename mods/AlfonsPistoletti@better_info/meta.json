@@ -1,0 +1,29 @@
+
+{
+  "id": "better_info",
+  "title": "Better Info",
+  "author": "AlfonsPistoletti",
+  "version": "0.6.5",
+  "summary": "Gen 1 UI overhaul with an expanded Pokédex, detailed stats and move information, and a Move Relearner NPC.",
+  "categories": [
+    "UI"
+  ],
+  "repo": "https://github.com/AlfonsPistoletti/gen1recomp-mod-better-info",
+  "github": "AlfonsPistoletti/gen1recomp-mod-better-info",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "overhaul",
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "games": [
+    "gen1"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": [
+    "kanto_ascendant",
+    "modern_pokedex_ui"
+  ],
+  "experimental": false
+}
