@@ -1,0 +1,28 @@
+
+{
+  "id": "weather_fx",
+  "title": "Weather FX",
+  "author": "MrKrisSatan",
+  "version": "8.2.14",
+  "summary": "Adds dynamic weather to overworlds and battles, including rain, snow, clouds, lightning, tornadoes, seasons, day/night effects, and atmospheric audio.",
+  "categories": [
+    "ART",
+    "AUDIO"
+  ],
+  "repo": "https://github.com/MrKrisSatan/Weather-fx",
+  "github": "MrKrisSatan/Weather-fx",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
