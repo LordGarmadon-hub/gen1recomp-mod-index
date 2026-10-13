@@ -1,0 +1,32 @@
+
+{
+  "id": "better_buildings",
+  "title": "Better Buildings",
+  "author": "HydroHomie31415",
+  "version": "1.16.0",
+  "summary": "Redraws Kanto's buildings in a FireRed-inspired style, with distinctive landmarks, houses, shops, gyms and route gates.",
+  "categories": [
+    "ART"
+  ],
+  "tags": [
+    "graphics",
+    "buildings",
+    "kanto",
+    "voxel"
+  ],
+  "repo": "https://github.com/HydroHomie31415/Better-Buildings",
+  "github": "HydroHomie31415/Better-Buildings",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.0.0-dev <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "games": [
+    "gen1"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
