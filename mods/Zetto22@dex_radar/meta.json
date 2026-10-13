@@ -1,0 +1,24 @@
+
+{
+  "id": "dex_radar",
+  "title": "Dex Radar",
+  "author": "Zetto22",
+  "version": "1.2.0",
+  "summary": "Lists wild Pokémon available on the current map, including grass, water, fishing, and additional encounter types in Pokémon Gold.",
+  "categories": [
+    "TOOL"
+  ],
+  "repo": "https://github.com/Zetto22/dex_radar",
+  "github": "Zetto22/dex_radar",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "profile": "content",
+  "affects_link": false,
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
