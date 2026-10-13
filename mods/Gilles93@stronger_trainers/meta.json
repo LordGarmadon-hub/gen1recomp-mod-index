@@ -1,0 +1,27 @@
+
+{
+  "id": "stronger_trainers",
+  "title": "Stronger Trainers",
+  "author": "Gilles93",
+  "version": "1.8.0",
+  "summary": "Increases trainer difficulty with six-Pokémon boss teams, improved movesets, smarter AI, higher levels, and configurable battle options.",
+  "categories": [
+    "BALANCE"
+  ],
+  "repo": "https://github.com/Gilles93/Stronger-Trainers",
+  "github": "Gilles93/Stronger-Trainers",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": "0.0.0-dev || >=0.1.0 <2.0.0",
+  "profile": "content",
+  "games": [
+    "red",
+    "blue",
+    "yellow"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
