@@ -1,0 +1,26 @@
+
+{
+  "id": "exp_share",
+  "title": "Exp Share",
+  "author": "Nexhas28",
+  "version": "0.1.10",
+  "summary": "Shares battle experience with the rest of the party, offering Gen 1, Gen 5+, BALANCED, AVERAGE and CUSTOM percentage modes.",
+  "categories": [
+    "GAMEPLAY"
+  ],
+  "repo": "https://github.com/Nexhas28/exp_share",
+  "github": "ShaneMcGovernIE/exp_share",
+  "automatic_version_check": true,
+  "api": 2,
+  "game_version": ">=0.0.0-dev <1.0.0",
+  "profile": "content",
+  "games": [
+    "gen1",
+    "gen2"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
